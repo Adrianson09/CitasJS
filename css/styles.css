@@ -14,6 +14,7 @@ body {
 @media (min-width: 780px) { 
   .titulo {
   font-size: 3rem;
+  padding: 1rem;
 
   }
     
